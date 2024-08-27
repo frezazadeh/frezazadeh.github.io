@@ -8,7 +8,7 @@ author_profile: true
 
 <span style="font-size: 22px;">Proof of Concepts (PoCs)/Demos</span>
 ======
-1. <span style="font-size: 16px;">**F. Rezazadeh**, A. Ashtari Gargari, S. Lagén, J. Mangues, D. Niyato, AND L. Liu, "Demo: Generative Open xG Network Simulation with Multi-Agent LLM and ns-3 (GenOnet)", preprint, 2024. [[arxiv](https://arxiv.org/abs/2408.13781)]</span>
+1. <span style="font-size: 16px;">**F. Rezazadeh**, A. Ashtari Gargari, S. Lagén, J. Mangues, D. Niyato, and L. Liu, "Demo: Generative Open xG Network Simulation with Multi-Agent LLM and ns-3 (GenOnet)", preprint, 2024. [[arxiv](https://arxiv.org/abs/2408.13781)]</span>
 1. <span style="font-size: 16px;">**F. Rezazadeh**, S. Barrachina-Muñoz, H. Chergui, J. Mangues, M. Bennis, D. Niyato, H. Song, and L. Liu, "Toward Explainable Reasoning in 6G: A Proof of Concept Study on Radio Resource Allocation", preprint, 2024. [[arxiv](https://arxiv.org/abs/2407.10186)]</span>
 1. <span style="font-size: 16px;">S. Barrachina-Muñoz, E. Zeydan, L. Blanco, L. Vettori, **F. Rezazadeh**, and J. Mangues-Bafalluy, "Cloud Native Federated Learning for Streaming: An Experimental Demonstrator", IEEE HPSR, 2023. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10147920)]</span>
 1. <span style="font-size: 16px;">**F. Rezazadeh**, S. Barrachina-Muñoz, E. Zeydan, H. Song, K.P. Subbalakshmi, and J. Mangues-Bafalluy, "X-GRL: An Empirical Assessment of Explainable GNN-DRL in B5G/6G Networks", IEEE NFV-SDN, 2023. [[IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10329778/authors)][[arxiv](https://arxiv.org/abs/2311.08798)]</span>
