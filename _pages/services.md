@@ -43,6 +43,7 @@ author_profile: true
 <span style="font-size: 22px;">TPC Membership/Reviewer</span>
 ======
 1. <span style="font-size: 16px;">International Conference on Computer Communications and Networks (ICCCN), Tokyo, Japan, 2025.</span>
+1. <span style="font-size: 16px;">International Conference on Computer Sciences, Engineering, and Technology Innovation (ICoCSETI), Jakarta, Indonesia, 2025.</span>
 1. <span style="font-size: 16px;">IEEE Global Communications Conference (GLOBECOM), Cape Town, South Africa, 2024.</span>
 1. <span style="font-size: 16px;">IEEE International Mediterranean Conference on Communications and Networking, Madrid, Spain, 2024.</span>
 1. <span style="font-size: 16px;">2nd International Conference on Sustainable Computing and Smart Systems (ICSCSS 2024), 
