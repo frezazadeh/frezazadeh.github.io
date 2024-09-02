@@ -10,6 +10,7 @@ author_profile: true
 ======
 1. <span style="font-size: 16px;">Co-founder and Coordinator, IEEE IoT Community, Trustworthy IoT (Trust-IoT) Working Group.</span>
 1. <span style="font-size: 16px;">Chair, IEEE MeditCom 2024, "1st International Workshop on Explainable and Responsible AI/GenAI for 6G Networks (6GBRAIN)", 2024.</span>
+1. <span style="font-size: 16px;">Program Committee Member, 2nd International Conference on AI-generated Content (AIGC 2024), China, 2024.</span>
 1. <span style="font-size: 16px;">Program Committee Member, 1st International Symposium on Parallel Computing and Distributed Systems (IEEE-PCDS2024), 2024.</span>
 1. <span style="font-size: 16px;">Committee Member, "IEEE International Mediterranean Conference on Communications and Networking (IEEE Meditcom)", 2021.</span>
 1. <span style="font-size: 16px;">Chair, IEEE ICC2023, "SAC Machine Learning for Communications and Networking Track", 2023.</span>
@@ -44,7 +45,6 @@ author_profile: true
 1. <span style="font-size: 16px;">International Conference on Computer Communications and Networks (ICCCN), Tokyo, Japan, 2025.</span>
 1. <span style="font-size: 16px;">IEEE Global Communications Conference (GLOBECOM), Cape Town, South Africa, 2024.</span>
 1. <span style="font-size: 16px;">IEEE International Mediterranean Conference on Communications and Networking, Madrid, Spain, 2024.</span>
-1. <span style="font-size: 16px;">2nd International Conference on AI-generated Content (AIGC 2024), China, 2024.</span>
 1. <span style="font-size: 16px;">2nd International Conference on Sustainable Computing and Smart Systems (ICSCSS 2024), 
 Coimbatore, India, 2024.</span>
 1. <span style="font-size: 16px;">2024 EuCNC & 6G Summit, Antwerp, Belgium, 2024.</span>
