@@ -18,6 +18,7 @@ redirect_from:
 
 <span style="font-size: 22px;">News</span>
 ======
+- <span style="font-size: 16px;">[Aug 12, 2024] Invited as TPC member of International Conference on Computer Sciences, Engineering, and Technology Innovation (ICoCSETI), 2025.</span>
 - <span style="font-size: 16px;">[Aug 08, 2024] Invited as TPC member of 34th International Conference on Computer Communications and Networks (IEEE-ICCCN 2025), 2024.</span>
 - <span style="font-size: 16px;">[July 20, 2024] Invited as Reviewer of Computational Economics Journal, 2024.</span>
 - <span style="font-size: 16px;">[July 09, 2024] Invited as Program Committee Member of International Symposium on Parallel Computing and Distributed Systems (IEEE-PCDS2024), 2024.</span>
