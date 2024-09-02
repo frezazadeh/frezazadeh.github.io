@@ -8,9 +8,9 @@ author_profile: true
 
 <span style="font-size: 22px;">Organizing/Chairing</span>
 ======
-1. <span style="font-size: 16px;">Co-founder and Coordinator, IEEE IoT Community, Trustworthy IoT (Trust-IoT) Working Group.</span>
+1. <span style="font-size: 16px;">Coordinator, Trustworthy IoT (Trust-IoT) Working Group, IEEE IoT Community.</span>
 1. <span style="font-size: 16px;">Chair, IEEE MeditCom 2024, "1st International Workshop on Explainable and Responsible AI/GenAI for 6G Networks (6GBRAIN)", 2024.</span>
-1. <span style="font-size: 16px;">Program Committee Member, 2nd International Conference on AI-generated Content (AIGC 2024), China, 2024.</span>
+1. <span style="font-size: 16px;">Program Committee Member, 2nd International Conference on AI-generated Content (AIGC 2024), 2024.</span>
 1. <span style="font-size: 16px;">Program Committee Member, 1st International Symposium on Parallel Computing and Distributed Systems (IEEE-PCDS2024), 2024.</span>
 1. <span style="font-size: 16px;">Committee Member, "IEEE International Mediterranean Conference on Communications and Networking (IEEE Meditcom)", 2021.</span>
 1. <span style="font-size: 16px;">Chair, IEEE ICC2023, "SAC Machine Learning for Communications and Networking Track", 2023.</span>
