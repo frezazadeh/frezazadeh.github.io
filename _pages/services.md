@@ -27,6 +27,7 @@ author_profile: true
 1. <span style="font-size: 16px;">Reviewer, Physical Communication Journal.</span>
 1. <span style="font-size: 16px;">Reviewer, Computational Economics Journal.</span>
 1. <span style="font-size: 16px;">Reviewer, Scientific Reports – Nature.</span>
+1. <span style="font-size: 16px;">Reviewer, Journal of Infrastructure, Policy and Development</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE Communications Surveys and Tutorials.</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE Transactions on Artificial Intelligence.</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE Open Journal of the Communications Society.</span>
