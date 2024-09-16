@@ -22,15 +22,9 @@ author_profile: true
 ======
 1. <span style="font-size: 16px;">Guest Editor, “Internet of Things and Cyber-Physical Systems Journal”, Trustworthy and explainable artificial intelligence for the Internet of Things (IoT), Special Issue.</span>
 1. <span style="font-size: 16px;">Book Reviewer, Wiley-IEEE Press.</span>
-1. <span style="font-size: 16px;">Reviewer, Computer Communications Journal.</span>
-1. <span style="font-size: 16px;">Reviewer, Cluster Computing Journal.</span>
-1. <span style="font-size: 16px;">Reviewer, Physical Communication Journal.</span>
-1. <span style="font-size: 16px;">Reviewer, Computational Economics Journal.</span>
-1. <span style="font-size: 16px;">Reviewer, Scientific Reports – Nature.</span>
-1. <span style="font-size: 16px;">Reviewer, Journal of Infrastructure, Policy and Development.</span>
-1. <span style="font-size: 16px;">Reviewer, Entropy Journal.</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE Communications Surveys and Tutorials.</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE Transactions on Artificial Intelligence.</span>
+1. <span style="font-size: 16px;">Reviewer, IEEE Transactions on Intelligent Transportation Systems.</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE Open Journal of the Communications Society.</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE JSAC Special Issue on Open RAN: a New Paradigm for Open, Virtualized, Programmable, and Intelligent Cellular Networks.</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE Transactions on Services Computing.</span>
@@ -40,6 +34,13 @@ author_profile: true
 1. <span style="font-size: 16px;">Reviewer, IEEE Communications Magazine (IEEE COMMAG).</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE Wireless Communications Magazine (IEEE WCM).</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE Transactions on Network and Service Management (IEEE TNSM).</span>
+1. <span style="font-size: 16px;">Reviewer, Computer Communications Journal.</span>
+1. <span style="font-size: 16px;">Reviewer, Cluster Computing Journal.</span>
+1. <span style="font-size: 16px;">Reviewer, Physical Communication Journal.</span>
+1. <span style="font-size: 16px;">Reviewer, Computational Economics Journal.</span>
+1. <span style="font-size: 16px;">Reviewer, Scientific Reports – Nature.</span>
+1. <span style="font-size: 16px;">Reviewer, Journal of Infrastructure, Policy and Development.</span>
+1. <span style="font-size: 16px;">Reviewer, Entropy Journal.</span>
 <div style="margin-top: 35px;"></div>
 
 <span style="font-size: 22px;">TPC Membership/Reviewer</span>
