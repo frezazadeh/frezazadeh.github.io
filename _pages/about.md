@@ -18,6 +18,7 @@ redirect_from:
 
 <span style="font-size: 22px;">News</span>
 ======
+- - <span style="font-size: 16px;">[Oct. 01, 2024] Invited as Reviewer for Future Internet Journal, 2024.</span>
 - <span style="font-size: 16px;">[Sep 20, 2024] Our journal paper, entitled 'Toward Explainable Reasoning in 6G: A Proof of Concept Study on Radio Resource Allocation', has been accepted at IEEE Open Journal of the Communications Society.</span>
 - <span style="font-size: 16px;">[Sep 20, 2024] Our demo paper, entitled 'GenOnet: Generative Open xG Network Simulation with Multi-Agent LLM and ns-3', has been accepted at 3rd International Conference on 6G Networking (6GNet 2024).</span>
 - <span style="font-size: 16px;">[Sep 16, 2024] Invited as Reviewer for IEEE Transactions on Intelligent Transportation Systems, 2024.</span>

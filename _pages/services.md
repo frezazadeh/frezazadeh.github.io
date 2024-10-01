@@ -41,6 +41,7 @@ author_profile: true
 1. <span style="font-size: 16px;">Reviewer, Scientific Reports – Nature.</span>
 1. <span style="font-size: 16px;">Reviewer, Journal of Infrastructure, Policy and Development.</span>
 1. <span style="font-size: 16px;">Reviewer, Entropy Journal.</span>
+1. <span style="font-size: 16px;">Reviewer, Future Internet Journal.</span>
 <div style="margin-top: 35px;"></div>
 
 <span style="font-size: 22px;">TPC Membership/Reviewer</span>
