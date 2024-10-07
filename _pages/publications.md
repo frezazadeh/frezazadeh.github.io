@@ -38,6 +38,7 @@ author_profile: true
 
 <span style="font-size: 22px;">Conference Papers</span>
 ======
+1. <span style="font-size: 16px;">Amir Ashtari Gargari, and **F. Rezazadeh** et al., "AI-Powered Data Synthesis for Advanced Simulation in 5G/6G mmWave Integrated Access and Backhaul Networks", under review, 2024.</span>
 1. <span style="font-size: 16px;">R. Nikbakht, F. Javed, **F. Rezazadeh** et al., "Decentralized Energy Marketplace via NFTs and AI-based Agents", IEEE ENERGYCON, 2024. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10488795)][[arxiv](https://arxiv.org/abs/2311.10406)]</span>
 1. <span style="font-size: 16px;">**F. Rezazadeh**, H. Chergui, and J. Mangues-Bafalluy, "Explanation-Guided Deep Reinforcement Learning for Trustworthy 6G RAN Slicing", IEEE ICC, 2023. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10283684)][[arxiv](https://arxiv.org/abs/2303.15000)]</span>
 1. <span style="font-size: 16px;">S. Roy, **F. Rezazadeh**, H. Chergui, and C. Verikoukis, "Joint Explainability and Sensitivity-Aware Federated Deep Learning for Transparent 6G RAN Slicing", IEEE ICC, 2023. [[IEEE Xplore](https://ieeexplore.ieee.org/document/10279790)][[arxiv](https://arxiv.org/abs/2309.13325)]</span>
