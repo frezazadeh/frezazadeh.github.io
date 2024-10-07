@@ -17,7 +17,7 @@ author_profile: true
 
 <span style="font-size: 22px;">Book Chapters</span>
 ======
-1. <span style="font-size: 16px;">**F. Rezazadeh**, H. Song, and L. Liu, "Neuro-Symbolic XAI for Communications", Towards Natively Intelligent Networks", Book Chapter, Explainable AI for Communications and Networking: Toward Responsible Automation, 2023. [[Access Link](https://books.google.es/books/about/Explainable_AI_for_Communications_and_Ne.html?id=2FLd0AEACAAJ&source=kp_author_description&redir_esc=y)]</span>
+1. <span style="font-size: 16px;">**F. Rezazadeh**, H. Song, and L. Liu, "Neuro-Symbolic XAI for Communications", Towards Natively Intelligent Networks", Book Chapter, Explainable AI for Communications and Networking: Toward Responsible Automation, 2025. [[Access Link](https://books.google.es/books/about/Explainable_AI_for_Communications_and_Ne.html?id=2FLd0AEACAAJ&source=kp_author_description&redir_esc=y)]</span>
 1. <span style="font-size: 16px;">L. Blanco, E. Zeydan, **F. Rezazadeh** et al., "Towards Sustainable and Trustworthy 6G", Towards Natively Intelligent Networks", Book Chapter, 5GPPP Architecture Working Group, 2023. [[Access Link](https://www.nowpublishers.com/article/BookDetails/9781638282389)]</span>
 1. <span style="font-size: 16px;">M. Maule, O. Kohjogh, and **F. Rezazadeh**, "Enabling 6G Mobile Networks, Advanced Cloud-Based Network Management for 5G C-RAN ", Springer Nature, book chapter, 2021. [[Access Link](https://link.springer.com/book/10.1007/978-3-030-74648-3)]</span>
 <div style="margin-top: 35px;"></div>
