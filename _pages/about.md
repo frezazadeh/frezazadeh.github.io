@@ -18,7 +18,9 @@ redirect_from:
 
 <span style="font-size: 22px;">News</span>
 ======
+- <span style="font-size: 16px;">[Oct. 09, 2024] Invited as Reviewer for Computers Journal, 2024.</span>
 - <span style="font-size: 16px;">[Oct. 04, 2024] Invited as Reviewer for Computational Economics Journal, 2024.</span>
+- <span style="font-size: 16px;">[Oct. 02, 2024] Invited as Reviewer for Electronics Journal, 2024.</span>
 - <span style="font-size: 16px;">[Oct. 01, 2024] Invited as Reviewer for Future Internet Journal, 2024.</span>
 - <span style="font-size: 16px;">[Sep. 21, 2024] Invited as Speaker for the IEEE Future Networks AIML, 2024.</span>
 - <span style="font-size: 16px;">[Sep 20, 2024] Our journal paper, entitled 'Toward Explainable Reasoning in 6G: A Proof of Concept Study on Radio Resource Allocation', has been accepted at IEEE Open Journal of the Communications Society.</span>

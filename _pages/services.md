@@ -43,6 +43,8 @@ author_profile: true
 1. <span style="font-size: 16px;">Reviewer, Entropy Journal.</span>
 1. <span style="font-size: 16px;">Reviewer, Future Internet Journal.</span>
 1. <span style="font-size: 16px;">Reviewer, Computational Economics.</span>
+1. <span style="font-size: 16px;">Reviewer, Electronics Journal.</span>
+1. <span style="font-size: 16px;">Reviewer, Computers Journal.</span>
 <div style="margin-top: 35px;"></div>
 
 <span style="font-size: 22px;">TPC Membership/Reviewer</span>
