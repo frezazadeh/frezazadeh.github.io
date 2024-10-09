@@ -85,7 +85,7 @@ Coimbatore, India, 2024.</span>
 
 <span style="font-size: 22px;">Talks & Presentations</span>
 ======
-1. <span style="font-size: 16px;">EEEFORUM2023, Invited Speaker, 2024.</span>
+1. <span style="font-size: 16px;">EEEFORUM2024, Invited Speaker, 2024.</span>
 1. <span style="font-size: 16px;">X-GRL: An Empirical Assessment of Explainable GNN-DRL in B5G/6G Networks, IEEE NFV-SDN, 2023.</span>
 1. <span style="font-size: 16px;">Towards Trustworthy and Explainable 6G O-RAN Slicing, EEEFORUM2023, Invited Speaker, 2023.</span>
 1. <span style="font-size: 16px;">Explanation-Guided Deep Reinforcement Learning for Trustworthy 6G RAN Slicing, IEEE ICC, 2023.</span>
