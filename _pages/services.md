@@ -49,6 +49,8 @@ author_profile: true
 
 <span style="font-size: 22px;">TPC Membership/Reviewer</span>
 ======
+
+1. <span style="font-size: 16px;">Twenty-Fourth International Conference on Networks (ICN), Nice, France, 2025.</span>
 1. <span style="font-size: 16px;">International Conference on Computer Communications and Networks (ICCCN), Tokyo, Japan, 2025.</span>
 1. <span style="font-size: 16px;">International Conference on Computer Sciences, Engineering, and Technology Innovation (ICoCSETI), Jakarta, Indonesia, 2025.</span>
 1. <span style="font-size: 16px;">International Conference on Intelligent Computing and Next Generation Networks (ICNGN), Bangkok, Thailand, 2024.</span>

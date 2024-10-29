@@ -18,6 +18,7 @@ redirect_from:
 
 <span style="font-size: 22px;">News</span>
 ======
+- <span style="font-size: 16px;">[Oct. 29, 2024] Invited as TPC member of The Twenty-Fourth International Conference on Networks (ICN), 2025.</span>
 - <span style="font-size: 16px;">[Oct. 14, 2024] Invited as Reviewer Committee Members for the 3rd International Conference on Intelligent Computing and Next Generation Networks (ICNGN), 2024.</span>
 - <span style="font-size: 16px;">[Oct. 09, 2024] Invited as Reviewer for Computers Journal, 2024.</span>
 - <span style="font-size: 16px;">[Oct. 04, 2024] Invited as Reviewer for Computational Economics Journal, 2024.</span>
