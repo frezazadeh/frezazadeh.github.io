@@ -12,7 +12,10 @@ redirect_from:
 
 <span style="font-size: 22px;">Research Interests</span>
 ======
-- <span style="font-size: 16px;">**Applied AI** [eXplainable AI (eXplainable Reinforcement Learning), Neuro-Symbolic AI (Neuro-Symbolic Reinforcement Learning), Genertaive AI (Generative Reinforcement Learning, Multi-Agent LLM), Quantum AI (Quantum Reinforcement Learning), Graph Neural Network (GNN-Reinforcement Learning), Lifelong RL (Federated, Distributed, Meta Learning), and MLOps (Reinforcement Learning)]</span>
+- <span style="font-size: 16px;">**Applied AI** [eXplainable AI, Neuro-Symbolic AI, Genertaive AI (Generative RL, Multi-Agent LLM),  Quantum AI (Quantum RL), Graph Neural Network (GNN-RL), Lifelong RL (Multi-agent, Federated, Distributed, Meta Learning), Mixture of Experts (MoEs), and Reservoir Computing (RC) - Echo State Network (ESN)]]</span>
+- <span style="font-size: 16px;">**Large Language Models (LLMs):** Advancing LLMs through fine-tuning, RAG, alignment, and model optimization for specialized tasks, including simulation automation, content generation, and decision-making. Investigating alignment techniques to ensure LLM outputs are aligned with user intent, ethical considerations, and domain-specific requirements.</span>
+- <span style="font-size: 16px;">**MLOps (CI/CD):** Designing and implementing end-to-end MLOps pipelines using Azure Machine Learning, Azure DevOps, CI/CD workflows, model monitoring, and optimization.</span>
+- <span style="font-size: 16px;">**Data Science and Data Engineering:** Azure Databricks, Data Lake, Data Factory, and Delta Lake for building scalable data pipelines and Lakehouse architectures and leveraging Azure's ecosystem for advanced analytics and end-to-end AI/ML solutions.</span>
 - <span style="font-size: 16px;">**5G/6G** [Open 5G/6G, Zero-Touch, Softwarization, Cloudification, Wireless Communications, Massive Network Slicing, 6G Verticals and Services, MEC, O-RAN-xAPPs, and Smart Grid]</span>
 <div style="margin-top: 35px;"></div>
 
