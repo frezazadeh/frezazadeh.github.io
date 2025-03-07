@@ -34,7 +34,7 @@ author_profile: true
 1. <span style="font-size: 16px;">Reviewer, IEEE Communications Magazine (IEEE COMMAG).</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE Wireless Communications Magazine (IEEE WCM).</span>
 1. <span style="font-size: 16px;">Reviewer, IEEE Transactions on Network and Service Management (IEEE TNSM).</span>
-1. <span style="font-size: 16px;">Reviewer, IEEE Transactions on Communications</span>
+1. <span style="font-size: 16px;">Reviewer, IEEE Transactions on Communications.</span>
 1. <span style="font-size: 16px;">Reviewer, Artificial Intelligence, Springer Nature.</span>
 1. <span style="font-size: 16px;">Reviewer, Computer Communications Journal.</span>
 1. <span style="font-size: 16px;">Reviewer, Cluster Computing Journal.</span>
