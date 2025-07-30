@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Farhad Rezazadeh"
 title_separator          : "-"
 name                     : &name "Farhad Rezazadeh"
-description              : &description "Sr. AI R&D Engineer"
+description              : &description "Sr. Applied AI/GenAI Scientist"
 url                      : https://frezazadeh.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "frezazadeh/frezazadeh.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Farhad Rezazadeh, PhD"
   avatar           : "Farhad-Rezazadeh-profile.jpg"
-  bio              : "Researcher (Sr. Applied AI Engineer) | CTTC"
+  bio              : "Sr. Applied AI/GenAI Scientist | Hostelworld"
   employer         : 
   location         : "Barcelona, Spain"
   email            : "frezazadeh@cttc.es"
