@@ -7,8 +7,44 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-size: 16px;">Farhad Rezazadeh received the Ph.D. degree (*Excellent Cum Laude*) in [Signal Theory and Communications](https://tsc.upc.edu/en) from [Technical University of Catalonia (UPC)](https://www.upc.edu/ca), Barcelona, Spain. He is currently a *Machine Learning Scientist* in Product and Growth department at [Hostelworl Group](https://www.hostelworld.com). Previously, he served as a *Visiting Associate Professor* at UPC and a Researcher (*Senior Applied AI Engineer*) in the [Services as NetworkS (SaS) Research Unit](https://www.cttc.cat/services-as-networks-sas/) at the [Telecommunications Technological Center of Catalonia (CTTC)](https://www.cttc.cat/), Barcelona, Spain. Also, he contributed as a Research Assistant at the [Advanced Broadband Communications Center (CCABA)](https://ccaba.upc.edu/en), under the esteemed guidance of Prof. Josep Solé-Pareta. He participated in 8 European and National *5G/B5G/6G* R&D projects with leading and technical tasks in the areas of Applied *AI* and *XAI*. His [*AI innovation*](https://innovation-radar.ec.europa.eu/innovation/52337) in B5G/6G resource allocation was recognized as a great EU-funded Innovation by the European Commission's Innovation Radar. He was awarded the 2 patents connected to the EU-H2020 projects. He was a secondee at [NEC Lab Europe](https://www.neclab.eu/research-areas/6g-networks) under the supervision of Prof. Xavier Costa-Pérez and had scientific missions at [Technical University of Munich (TUM)](https://www.ce.cit.tum.de/en/lkn/home/), [Hamburg University of Technology (TUHH-School)](https://www.tuhh.de/tuhh/en/startpage), and [Universitat de Girona (UdG)](https://bcds.udg.edu/news). He is a [Marie Skłodowska-Curie Ph.D.](https://www.5gstepfwd.eu/#home) grantee and won 5 different *IEEE/IEEE ComSoc* grants, 2 [European Cooperation in Science and Technology](https://www.cost.eu/) grants, and a [Catalan Government Ph.D.](https://agaur.gencat.cat/ca/inici/) grant. He is an active member of IEEE Young Professionals and IEEE Spain - Technical Activities and Standards with more than 34 top-tier journals/conferences and book chapters. He has over 240 verified reviews for peer-reviewed publications. He serves as Organizing, Chair, Reviewer, and TPC member in IEEE and Guest Editor in Elsevier. He is an ACM Professional Member and coordinates the IEEE Trustworthy Internet of Things (TRUST-IoT) working group.</span>
+<span style="font-size: 16px;">
+Dr. Farhad Rezazadeh received the Ph.D. degree (<em>Excellent Cum Laude</em>) in
+<a href="https://tsc.upc.edu/en" target="_blank" rel="noopener noreferrer">Signal Theory and Communications</a>
+from <a href="https://www.upc.edu/ca" target="_blank" rel="noopener noreferrer">Technical University of Catalonia (UPC)</a>,
+Barcelona, Spain. He is Founder and Coordinator of the <a href="https://www.acm.org/special-interest-groups/eigs" target="_blank" rel="noopener noreferrer">ACM Emerging Interest Group on Trustworthy and Responsible Systems (EIGTRUST)</a> and the <a href="https://iot.ieee.org/working-groups.html" target="_blank" rel="noopener noreferrer">IEEE TRUST-IoT working group</a>. He is an Applied AI and Generative AI professional with 10+ years of experience building and deploying
+real-world AI solutions across TelecomTech, TravelTech, and BioTech. His work spans end-to-end product development—from
+problem framing and model development to deployment and measurable business impact—with a focus on translating advanced AI
+into reliable, scalable systems. He is currently a <em>Machine Learning Scientist</em> in the Product and Growth department at
+<a href="https://www.hostelworldgroup.com/" target="_blank" rel="noopener noreferrer">Hostelworld Group</a>.
+Prior to his current role, he was a <em>Visiting Associate Professor</em> at UPC and a Researcher (<em>Senior Applied AI Engineer</em>)
+in the <a href="https://www.cttc.cat/services-as-networks-sas/" target="_blank" rel="noopener noreferrer">Services as NetworkS (SaS) Research Unit</a>
+at the <a href="https://www.cttc.cat/" target="_blank" rel="noopener noreferrer">Telecommunications Technological Center of Catalonia (CTTC)</a>,
+Barcelona, Spain. He also contributed as a Research Assistant at the
+<a href="https://ccaba.upc.edu/en" target="_blank" rel="noopener noreferrer">Advanced Broadband Communications Center (CCABA)</a>,
+under the guidance of Prof. Josep Solé-Pareta.
+
+He has technical and leadership experience in ten European and national R&amp;D, industrial, and business projects focusing on applied AI.
+His <a href="https://innovation-radar.ec.europa.eu/innovation/52337" target="_blank" rel="noopener noreferrer">AI innovation</a>
+in B5G/6G resource allocation was recognized by the European Commission’s Innovation Radar and resulted in two EU project patents.
+His international experience includes roles at
+<a href="https://www.neclab.eu/research-areas/6g-networks" target="_blank" rel="noopener noreferrer">NEC Lab Europe</a>
+(under the supervision of Prof. Xavier Costa-Pérez) and scientific missions at
+<a href="https://www.ce.cit.tum.de/en/lkn/home/" target="_blank" rel="noopener noreferrer">Technical University of Munich (TUM)</a>,
+<a href="https://www.tuhh.de/tuhh/en/startpage" target="_blank" rel="noopener noreferrer">Hamburg University of Technology (TUHH)</a>,
+and <a href="https://bcds.udg.edu/news" target="_blank" rel="noopener noreferrer">Universitat de Girona (UdG)</a>.
+He was a <a href="https://www.5gstepfwd.eu/#home" target="_blank" rel="noopener noreferrer">Marie Skłodowska-Curie Ph.D.</a> fellow and won five different IEEE/IEEE ComSoc grants,
+two <a href="https://www.cost.eu/" target="_blank" rel="noopener noreferrer">European Cooperation in Science and Technology (COST)</a> grants,
+and a <a href="https://agaur.gencat.cat/ca/inici/" target="_blank" rel="noopener noreferrer">Catalan Government Ph.D.</a> grant.
+
+As an active member of ACM and IEEE, he has contributed 33+ publications and three books and completed 295+ peer reviews.
+He is actively serves as Speaker, Organizer, Chair, Reviewer, and TPC member in IEEE, as well as Guest Editor in Elsevier.
+He is an expert in Applied XAI and Generative AI, working on pre-training, fine-tuning, aligning, and deploying large language models (LLMs) and foundation models
+for applications such as code generation, drug discovery, telecom, content processing, simulation automation, time series, business recommendation systems,
+and decision-making tasks. He recently introduced <em>Digital Co-Founders</em> as a conceptual paradigm that positions Agentic AI systems as autonomous partners
+enabling individuals to ideate, build, and scale viable solo businesses.
+</span>
 <div style="margin-top: 35px;"></div>
+
 
 <span style="font-size: 22px;">Research Interests</span>
 ======
