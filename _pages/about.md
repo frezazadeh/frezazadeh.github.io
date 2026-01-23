@@ -26,7 +26,7 @@ He has technical and leadership experience in ten European and national R&amp;D,
 His <a href="https://innovation-radar.ec.europa.eu/innovation/52337" target="_blank" rel="noopener noreferrer">AI innovation</a>
 in B5G/6G resource allocation was recognized by the European Commission’s Innovation Radar and resulted in two EU project patents.
 His international experience includes roles at
-<a href="https://www.neclab.eu/research-areas/6g-networks" target="_blank" rel="noopener noreferrer">NEC Lab Europe</a>
+<a href="https://neclab.eu/research-groups/6g-networks" target="_blank" rel="noopener noreferrer">NEC Lab Europe</a>
 (under the supervision of Prof. Xavier Costa-Pérez) and scientific missions at
 <a href="https://www.ce.cit.tum.de/en/lkn/home/" target="_blank" rel="noopener noreferrer">Technical University of Munich (TUM)</a>,
 <a href="https://www.tuhh.de/tuhh/en/startpage" target="_blank" rel="noopener noreferrer">Hamburg University of Technology (TUHH)</a>,
