@@ -22,7 +22,7 @@ at the <a href="https://www.cttc.cat/" target="_blank" rel="noopener noreferrer"
 Barcelona, Spain. He also contributed as a Research Assistant at the
 <a href="https://ccaba.upc.edu/en" target="_blank" rel="noopener noreferrer">Advanced Broadband Communications Center (CCABA)</a>,
 under the guidance of Prof. Josep Solé-Pareta.
-  
+<\br>
 He has technical and leadership experience in ten European and national R&amp;D, industrial, and business projects focusing on applied AI.
 His <a href="https://innovation-radar.ec.europa.eu/innovation/52337" target="_blank" rel="noopener noreferrer">AI innovation</a>
 in B5G/6G resource allocation was recognized by the European Commission’s Innovation Radar and resulted in two EU project patents.
