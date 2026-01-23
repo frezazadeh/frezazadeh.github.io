@@ -20,7 +20,7 @@ Prior to his current role, he was a <em>Visiting Associate Professor</em> at UPC
 in the <a href="https://www.cttc.cat/services-as-networks-sas/" target="_blank" rel="noopener noreferrer">Services as NetworkS (SaS) Research Unit</a>
 at the <a href="https://www.cttc.cat/" target="_blank" rel="noopener noreferrer">Telecommunications Technological Center of Catalonia (CTTC)</a>,
 Barcelona, Spain. He also contributed as a Research Assistant at the
-<a href="https://ccaba.upc.edu/en" target="_blank" rel="noopener noreferrer">Advanced Broadband Communications Center (CCABA)</a>,
+<a href="https://ccaba.upc.edu" target="_blank" rel="noopener noreferrer">Advanced Broadband Communications Center (CCABA)</a>,
 under the guidance of Prof. Josep Solé-Pareta.
 He has technical and leadership experience in ten European and national R&amp;D, industrial, and business projects focusing on applied AI.
 His <a href="https://innovation-radar.ec.europa.eu/innovation/52337" target="_blank" rel="noopener noreferrer">AI innovation</a>
