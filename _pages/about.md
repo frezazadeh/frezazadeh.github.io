@@ -22,8 +22,7 @@ at the <a href="https://www.cttc.cat/" target="_blank" rel="noopener noreferrer"
 Barcelona, Spain. He also contributed as a Research Assistant at the
 <a href="https://ccaba.upc.edu/en" target="_blank" rel="noopener noreferrer">Advanced Broadband Communications Center (CCABA)</a>,
 under the guidance of Prof. Josep Solé-Pareta.
-
-
+  
 He has technical and leadership experience in ten European and national R&amp;D, industrial, and business projects focusing on applied AI.
 His <a href="https://innovation-radar.ec.europa.eu/innovation/52337" target="_blank" rel="noopener noreferrer">AI innovation</a>
 in B5G/6G resource allocation was recognized by the European Commission’s Innovation Radar and resulted in two EU project patents.
@@ -36,7 +35,6 @@ and <a href="https://bcds.udg.edu/news" target="_blank" rel="noopener noreferrer
 He was a <a href="https://www.5gstepfwd.eu/#home" target="_blank" rel="noopener noreferrer">Marie Skłodowska-Curie Ph.D.</a> fellow and won five different IEEE/IEEE ComSoc grants,
 two <a href="https://www.cost.eu/" target="_blank" rel="noopener noreferrer">European Cooperation in Science and Technology (COST)</a> grants,
 and a <a href="https://agaur.gencat.cat/ca/inici/" target="_blank" rel="noopener noreferrer">Catalan Government Ph.D.</a> grant.
-
 
 As an active member of ACM and IEEE, he has contributed 33+ publications and three books and completed 295+ peer reviews.
 He is actively serves as Speaker, Organizer, Chair, Reviewer, and TPC member in IEEE, as well as Guest Editor in Elsevier.
