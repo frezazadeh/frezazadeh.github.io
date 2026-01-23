@@ -16,7 +16,7 @@ real-world AI solutions across TelecomTech, TravelTech, and BioTech. His work sp
 problem framing and model development to deployment and measurable business impact—with a focus on translating advanced AI
 into reliable, scalable systems. He is currently a <em>Machine Learning Scientist</em> in the Product and Growth department at
 <a href="https://www.hostelworldgroup.com/" target="_blank" rel="noopener noreferrer">Hostelworld Group</a>.
-Prior to his current role, he was a <em>Visiting Associate Professor</em> at UPC and a Researcher (<em>Senior Applied AI Engineer</em>)
+Prior to his current role, he was a <a href="https://emit.upc.edu/en" target="_blank" rel="noopener noreferrer"><em>Visiting Associate Professor</em></a> at UPC and a Researcher (<em>Senior Applied AI Engineer</em>)
 in the <a href="https://www.cttc.cat/services-as-networks-sas/" target="_blank" rel="noopener noreferrer">Services as NetworkS (SaS) Research Unit</a>
 at the <a href="https://www.cttc.cat/" target="_blank" rel="noopener noreferrer">Telecommunications Technological Center of Catalonia (CTTC)</a>,
 Barcelona, Spain. He also contributed as a Research Assistant at the
@@ -34,7 +34,7 @@ and <a href="https://bcds.udg.edu/news" target="_blank" rel="noopener noreferrer
 He was a <a href="https://www.5gstepfwd.eu/#home" target="_blank" rel="noopener noreferrer">Marie Skłodowska-Curie Ph.D.</a> fellow and won five different IEEE/IEEE ComSoc grants,
 two <a href="https://www.cost.eu/" target="_blank" rel="noopener noreferrer">European Cooperation in Science and Technology (COST)</a> grants,
 and a <a href="https://agaur.gencat.cat/ca/inici/" target="_blank" rel="noopener noreferrer">Catalan Government Ph.D.</a> grant.
-As an active member of ACM and IEEE, he has contributed 33+ publications and three books and completed 295+ peer reviews.
+As an active member of ACM and IEEE, he has contributed <a href="https://scholar.google.com/citations?user=4V5XoVAAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">33+ publications</a> and three books and completed <a href="https://www.webofscience.com/wos/author/record/AAH-5623-2021" target="_blank" rel="noopener noreferrer">295+ peer reviews</a>.
 He is actively serves as Speaker, Organizer, Chair, Reviewer, and TPC member in IEEE, as well as Guest Editor in Elsevier.
 He is an expert in Applied XAI and Generative AI, working on pre-training, fine-tuning, aligning, and deploying large language models (LLMs) and foundation models
 for applications such as code generation, drug discovery, telecom, content processing, simulation automation, time series, business recommendation systems,
